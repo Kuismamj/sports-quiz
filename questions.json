@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Mikä HTML-elementti sisältää sivun pääotsikon?",
+      "choice1": "<header>",
+      "choice2": "<head>",
+      "choice3": "<title>",
+      "choice4": "<h1>",
+      "answer": 1
+    },
+    {
+      "question": "Mikä CSS-ominaisuus määrittää tekstin värin?",
+      "choice1": "background-color",
+      "choice2": "color",
+      "choice3": "font-style",
+      "choice4": "text-decoration",
+      "answer": 2
+    },
+    {
+      "question": "Mikä seuraavista on oikea tapa luoda muuttuja JavaScriptissä?",
+      "choice1": "var myVar = 10;",
+      "choice2": "variable myVar = 10;",
+      "choice3": "let = myVar 10;",
+      "choice4": "myVar == 10;",
+      "answer": 1
+    } 
+]
+  
