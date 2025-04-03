@@ -1,9 +1,9 @@
 body {
-  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('wallpaperflare.com_wallpaper.jpg'); /* Korvaa 'background.jpg' omalla kuvallasi */
-  background-size: cover; /* Skaalaa kuva sopimaan koko taustaan */
-  background-position: center; /* Keskittää kuvan */
-  background-repeat: no-repeat; /* Estää kuvan toistumisen */
-  height: 100vh; /* Varmistaa, että tausta peittää koko näytön */
+  background-image:linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('wallpaperflare.com_wallpaper.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 100vh; 
 }
 :root{
     background-color: white;
@@ -134,7 +134,7 @@ width: 100%;
 .sport-animation {
     width: 100%;
     height: 100%;
-    background-image: url('black-outline-soccer-ball-icon-transparent-png-701751694971922pdeoqio6ls.png'); /* Korvaa jalkapallon kuvalla */
+    background-image: url('black-outline-soccer-ball-icon-transparent-png-701751694971922pdeoqio6ls.png'); 
     background-size: cover;
     border-radius: 50%;
     animation: spin 5s infinite linear;
